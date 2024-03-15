@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Halving 2024"
-date:   2024-02-08 23:29:14 -0500
+date:   2024-1-01 23:29:14 -0500
 categories: update
 ---
 Bitcoin halving years are always exciting and this one appears to be no different. For me personally, it
